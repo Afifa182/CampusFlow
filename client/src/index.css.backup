@@ -1,0 +1,137 @@
+
+/* ===== FINAL FIX: Match CampusFlow Dashboard to Orange Theme ===== */
+
+.cf-layout {
+  --cf-navy: #9a3412;
+  --cf-navy-light: #7c2d12;
+  --cf-gold: #f97316;
+  --cf-blue: #ea580c;
+  --cf-text: #29211c;
+  --cf-muted: #786b62;
+  --cf-border: #f0dfd0;
+
+  background: #fff7ed;
+  color: #29211c;
+}
+
+.cf-sidebar {
+  background: #9a3412;
+}
+
+.cf-logo-icon {
+  background: #f97316;
+  color: #ffffff;
+}
+
+.cf-logo-gold {
+  color: #fdba74;
+}
+
+.cf-side-label {
+  color: #fed7aa;
+}
+
+.cf-side-link {
+  color: #ffedd5;
+}
+
+.cf-side-link:hover,
+.cf-side-active {
+  background: #7c2d12;
+  color: #ffffff;
+}
+
+.cf-side-active {
+  box-shadow: inset 3px 0 #fdba74;
+}
+
+.cf-sidebar-bottom {
+  border-color: #b4532a;
+}
+
+.cf-sidebar-mark {
+  border-color: #fdba74;
+  color: #fed7aa;
+}
+
+.cf-sidebar-bottom small {
+  color: #fed7aa;
+}
+
+.cf-stat-featured {
+  background: #9a3412;
+  border-color: #9a3412;
+}
+
+.cf-stat-icon {
+  background: #ffedd5;
+  color: #9a3412;
+}
+
+.cf-icon-blue,
+.cf-icon-gold {
+  background: #fff1e5;
+  color: #c2410c;
+}
+
+.cf-primary-btn {
+  background: #f97316;
+  border-color: #f97316;
+  color: #ffffff;
+}
+
+.cf-primary-btn:hover {
+  background: #ea580c;
+  border-color: #ea580c;
+  color: #ffffff;
+}
+
+.cf-field input:focus,
+.cf-field select:focus {
+  border-color: #f97316;
+  box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.12);
+}
+
+.cf-heading-number {
+  background: #fff1e5;
+  color: #9a3412;
+}
+
+.cf-table th {
+  background: #fff1e5;
+  color: #9a3412;
+}
+
+.cf-avatar {
+  background: #ffedd5;
+  color: #9a3412;
+}
+
+.cf-roll {
+  background: #fff7ed;
+  color: #9a3412;
+}
+
+.cf-edit-btn {
+  color: #c2410c;
+  border-color: #fed7aa;
+}
+
+.cf-edit-btn:hover {
+  background: #fff1e5;
+}
+
+.cf-empty-icon {
+  background: #fff1e5;
+  color: #9a3412;
+}
+
+.cf-year {
+  background: #fff7ed;
+  border-color: #fed7aa;
+  color: #9a3412;
+}
+
+.cf-table tbody tr:hover {
+  background: #fffaf5;
+}
